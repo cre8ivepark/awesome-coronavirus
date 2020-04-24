@@ -505,6 +505,16 @@
           "description": "A Chrome and Firefox browser popup utility to show countries and states stats with notifications related to increase in global confirmed cases"
         }
       ]
-    }
+    },
+    {
+      "category": "HoloLens Apps",
+      "list": [
+        {
+          "title": "COVID-19 Data Visualization",
+          "url": "https://github.com/cre8ivepark/COVID19DataVisualizationHoloLens2",
+          "description": "COVID-19 Data Visualization for HoloLens2 / HoloLens / Windows Mixed Reality"
+        }
+      ]
+    }    
   ]
 }
